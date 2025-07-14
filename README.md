@@ -9,15 +9,14 @@
 
 
  
-Let me introduce myself  :girl: 
+Permiteme presentarme  👦: 
 
-- 🔭 I’m currently working on [CP](https://en.wikipedia.org/wiki/Competitive_programming#:~:text=The%20aim%20of%20competitive%20programming,mathematical%20or%20logical%20in%20nature). Sometimes I try to work on some short personal projects of mine.
-- :art: <b>Hobby:</b> Attending in [CP](https://en.wikipedia.org/wiki/Competitive_programming#:~:text=The%20aim%20of%20competitive%20programming,mathematical%20or%20logical%20in%20nature), watching anime series, movies, English TV series and so on. I was a bookworm earlier even though I don't read that much nowadays. :disappointed: I love tech-related stuff whether it could be :iphone: or :computer: related stuff although I keep decent knowledge regarding :computer:  
-- :high_brightness: <b>Special quality:</b> <br>
-        :beginner: Problem Solving <br>
-        :beginner: Tech Enthusiasts <br>
-        :beginner: Web Designing <br>
-        :beginner: Strategy <br>
+- 🔭 Actualmente estoy estudiando en [Mano Amiga](https://www.fundacionmanoamiga.org.ar/). 
+- :high_brightness: <b>Habilidades:</b> <br>
+        :beginner: Resolución de problemas <br>
+        :beginner: Entuciasta en tecnologia <br>
+        :beginner: Diseño Web <br>
+        :beginner: Estratega <br>
 
 <h2 align="center">
 
@@ -48,14 +47,12 @@ Let me introduce myself  :girl:
 
 
 <h2 align="center">
-My Current Workstation Specification </h2>
+Mi actual estacion de trabajo</h2>
 
 <div align="center">
-  
-![Laptop](https://img.shields.io/badge/Windows-ASUS-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
-<br>
-
-![CPU](https://img.shields.io/badge/Intel-Core_i3_4th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+  <p>Ryzen 5 5600g</p> 
+<p>16GB</p>
+<p>RX 570 8GB</p>
  
   
 
@@ -88,69 +85,8 @@ My Current Workstation Specification </h2>
   
   <img align="center" a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
 
- ### ⚡️ Fun fact about me: ✨ I love coding+learning+sleeping✨ 
+ ### ⚡️ Algo divertido sobre mi: ✨ Amo programar + Reparar + y comer...✨ 
  
 
 
-<h2>Connect with me!</h2>
- 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/IsratIJK/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/IsratIJK/)  
 
-
-
-
-
-
-
-<br> <br>
-🌟 STAR THE REPOS IF YOU LIKE 🌟
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IsratIJK" alt="IsratIJK" /></p>
-
-</div>
-
-
-
-
-
-
-
-
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-- :snowflake: If you want to check my profile of CP related various Online Judges, then: <br>
-:star: [Codeforces](https://codeforces.com/profile/IsratIJK) <br>
-:star: [Toph](https://toph.co/u/IsratIJK) <br>
-:star: [HackerRank](https://www.hackerrank.com/IsratIJK) <br>
-:star: [URI](https://www.urionlinejudge.com.br/judge/en/profile/436965) <br>
-:star: [Dimik OJ](https://dimikoj.com/users/6472/IsratIJK) <br>
-:star: [CodeMarshal](https://algo.codemarshal.org/users/IsratIJK) <br>
-<i>Many more are coming soon...</i> :cupid:
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<br><br>
-
-
-<div align="center">
-  
-
-![IsratIJK's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IsratIJK&layout=compact&theme=radical)
-
-
-</div>
-
-
-<p align="center">
-
-<a href="https://github.com/FahimFBA/github-readme-twitter">
-<img align="center" src="https://github-readme-twitter.gazf.vercel.app/api?id=IsratIJK&layout=wide&show_reply=off&show_retweet=off" />
-</a>
-
-</p>
-
-
-----------
-Credit: [IsratIJK](https://github.com/IsratIJK)
-Last Edited on: 03/09/2021

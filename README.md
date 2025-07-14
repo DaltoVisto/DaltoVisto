@@ -1,5 +1,5 @@
 <h2 align="center"> Hola, Somos DaltoVisto! <br/></h2> 
-  <a href="https://github.com/IsratIJK" target="_blank">
+ 
  <br> <br>
   
                              
